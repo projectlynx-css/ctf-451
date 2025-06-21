@@ -1,0 +1,4 @@
+The CEO of Gear & Glory inserted his USB into a public PC, the PC started copying it's data. It was observed by the CEO, and it was not late.
+But still some of the documents are stolen. The CEO lost it's password with a format of 451{xxxxxxxx}. He recovered the files, but he couldn't recover his password! Can you help recover his password?
+
+Hint: The CEO well hid it, but he forgot where!
