@@ -1,6 +1,4 @@
-# CTF - 451
-
-# 🕵️‍♂️ Al-Kawthar University CTF Series – Unsolved Challenges
+# Al-Kawthar University CTF - 451 Series – Unsolved Challenges
 
 Welcome to the official repository of **unsolved challenges** from the Capture The Flag (CTF) events organized by the **Computer Science Society** at **Al-Kawthar University**.
 
